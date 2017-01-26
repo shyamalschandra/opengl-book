@@ -1,4 +1,4 @@
-#OpenGL 2.1 Bible 
+#OpenGL 2.1 Bible (Rough Cuts Preliminary Version)
 
 ##Author: Shyamal Chandra
 ###Date: January 20, 2017
